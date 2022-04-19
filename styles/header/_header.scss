@@ -331,7 +331,7 @@
     .header-left {
         display: flex;
         align-items: center;
-        justify-content: start;
+        justify-content: flex-start;
         flex-basis: 55%;
         @media #{$small-mobile} {
             justify-content: center;
