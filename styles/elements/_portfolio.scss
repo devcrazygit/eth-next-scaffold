@@ -413,11 +413,11 @@
             justify-content: flex-start;
         }
         @media #{$md-layout} {
-            justify-content: start;
+            justify-content: flex-start;
         }
 
         @media #{$sm-layout} {
-            justify-content: start;
+            justify-content: flex-start;
         }
 
         .filter-select-option {
